@@ -107,6 +107,12 @@
       <li>
       <a href="https://www.linkedin.com/in/patricksingal" target="_blank" rel="noopener noreferrer">LinkedIn</a>
       </li>
+      <li>
+      <a href="https://scholar.google.com/citations?view_op=list_works&hl=fr&authuser=2&user=5EXelpYAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+      </li>
+      <li>
+      <a href="https://github.com/pjsingal" target="_blank" rel="noopener noreferrer">GitHub</a>
+      </li>
     </ul>
   </div>
 </nav>
